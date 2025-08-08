@@ -21,4 +21,4 @@ A Django project that fetches the latest news using RSS feeds and displays them 
    `python manage.py runserver`
 
    
-Visit: http://127.0.0.1:8000/
+
